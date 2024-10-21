@@ -151,9 +151,10 @@ int main() {
 ## Outputs :
 
 ### 1.
-
+<img width="629" alt="Screenshot 2024-10-21 at 2 21 02 PM" src="https://github.com/user-attachments/assets/d6e365e9-878b-4a68-899e-4d7c8168b15d">
 
 ### 2.
+<img width="543" alt="Screenshot 2024-10-21 at 2 22 53 PM" src="https://github.com/user-attachments/assets/e9086505-b74d-4f16-b5bc-7cc3020d2d76">
 
 
 ## Conclusion :
